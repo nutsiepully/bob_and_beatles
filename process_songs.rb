@@ -46,7 +46,7 @@ def process artist
 
   files = Dir.entries(artist + "_dir")
   #files.take(3).each do |file|
-  files.take(3).each do |file|
+  files.each do |file|
     next if (file == "." || file == "..")
     words = get_words_for_song(artist, file)
     words.each do |word|
