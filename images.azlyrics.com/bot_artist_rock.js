@@ -1,0 +1,12 @@
+var dz=document;
+dz.writeln("<script type=\"text/javascript\"><!--");
+dz.writeln("google_ad_client = \"ca-pub-0306128000163392\";");
+dz.writeln("/* AZLyrics 728x90 bottom */");
+dz.writeln("google_ad_slot = \"5449691230\";");
+dz.writeln("google_ad_width = 728;");
+dz.writeln("google_ad_height = 90;");
+dz.writeln("//-->");
+dz.writeln("</script>");
+dz.writeln("<script type=\"text/javascript\"");
+dz.writeln("src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">");
+dz.writeln("</script>");
